@@ -1,0 +1,29 @@
+
+.form_wrapper {
+    margin-top: 35px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form_wrapper > div {
+    margin-bottom: 15px;
+}
+
+.button_wrapper {
+    display: flex;
+    gap: 10px;
+}
+
+.card_wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+
+.card_wrapper button {
+    margin-top: 25px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
