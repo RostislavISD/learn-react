@@ -10,5 +10,18 @@ export const ROUTES = [
         menuTitle: 'Главная',
         path: '/',
         weight: 0,
+        active: true,
+    }, 
+    {
+        id: 'Other',
+        menuTitle: 'Запасная',
+        path: '/other',
+        weight: 2,
+    }, 
+    {
+        id: 'Support',
+        menuTitle: 'Поддержка',
+        path: '/support',
+        weight: 3,
     }, 
 ];

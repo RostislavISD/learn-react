@@ -24,7 +24,7 @@ function App() {
       setUser({
         name,
         phone,
-      });  
+      }); 
     }
   }, []);
 

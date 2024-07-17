@@ -26,6 +26,7 @@ export function useList() {
     const loadedList = openList();
     if (loadedList && Array.isArray(loadedList)) {
       setList(loadedList);
+      console.log("111111111");
     }
   }, []);
 
