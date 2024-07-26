@@ -65,6 +65,39 @@
       "id": "d721",
       "name": "Александр",
       "phone": "+79999692762"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "id": "5ddf",
+      "name": "ffff",
+      "phone": "1111111111"
+    },
+    {
+      "id": "fdc8",
+      "name": "yyyyyyyy",
+      "phone": "7777777766"
+    },
+    {
+      "id": "3452",
+      "name": "uuuuuuuuuuu",
+      "phone": "7777788888"
+    },
+    {
+      "id": "4259",
+      "name": "yyyyyyyy",
+      "phone": "7777777766"
+    },
+    {
+      "id": "0721",
+      "name": "yyyyyyyy",
+      "phone": "7777777766"
+    },
+    {
+      "id": "769e",
+      "name": "fff",
+      "phone": "44444444444"
+>>>>>>> 39f3b0fa1cc9d24044d99fef4c9086b78d4217c3
     }
   ]
 }

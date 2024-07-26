@@ -17,6 +17,14 @@ header > a {
   color: #ffffff;
 }
 
+<<<<<<< HEAD
+=======
+header > a.active {
+  color: tomato;
+  pointer-events: none;
+}
+
+>>>>>>> 39f3b0fa1cc9d24044d99fef4c9086b78d4217c3
 main {
   width: 1200px;
   padding: 20px;

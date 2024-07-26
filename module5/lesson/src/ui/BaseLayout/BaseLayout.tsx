@@ -44,6 +44,7 @@ export const BaseLayout = () => {
                         onClick={goToRoute}
                         path={route.path}
                         key={route.id}
+                        active={route.active}
                     />
                 ))}
             </header>
