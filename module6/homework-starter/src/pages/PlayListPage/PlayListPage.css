@@ -1,0 +1,13 @@
+.playListPage {
+    display: flex;
+    flex-direction: column;
+}
+
+.playListPage a {
+color: white;
+}
+
+.playListPage label {
+    display: block;
+    padding-bottom: 30px;
+}
