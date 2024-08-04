@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Тест компонента TableRow Проверка корректного рендеринга элемента списка 1`] = `
+<div>
+  <table>
+    <tbody>
+      <tr
+        class="list-item"
+      >
+        <td>
+          Вкусная пицца
+        </td>
+        <td>
+          15
+        </td>
+        <td
+          data-testid="TotalKcal"
+        >
+          850
+        </td>
+        <td>
+          <ul>
+            <li>
+              бекон (ккал 350)
+            </li>
+            <li>
+              сыр (ккал 500)
+            </li>
+          </ul>
+        </td>
+        <td
+          class="delete-button"
+        >
+          X
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
